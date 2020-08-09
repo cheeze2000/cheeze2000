@@ -11,8 +11,8 @@ Under this 4-year course, I am looking to specialise in Algorithms and Computer 
 ---
 
 ## 💔
-<img title="Java" width="72px" src="https://aleph.engineering/wp-content/uploads/2016/07/java-logo.svg" /> | <img title="Vim" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
--- | --
+<img title="Java" width="72px" src="https://aleph.engineering/wp-content/uploads/2016/07/java-logo.svg" /> | <img title="React" width="72px" src="https://cdn.discordapp.com/attachments/437471715975757834/742031538593464390/200px-React-icon.svg.png" /> | <img title="Vim" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
+-- | -- | --
 
 ---
 
