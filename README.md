@@ -19,3 +19,8 @@ Under this 4-year course, I am looking to specialise in Algorithms and Computer 
 ## 📫
 ### <img width="18px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" /> cheeze#2000
 ### <img width="18px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" /> me@cheeze2000.net
+
+---
+
+## 📈
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeze2000)](https://github.com/anuraghazra/github-readme-stats)
