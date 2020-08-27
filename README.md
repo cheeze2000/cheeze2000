@@ -17,7 +17,7 @@ Under this 4-year course, I am looking to specialise in Algorithms and Computer 
 ---
 
 ## 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeze2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeze2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
