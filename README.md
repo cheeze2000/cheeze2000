@@ -1,6 +1,6 @@
 ## 👋
 Hello! I'm cheeze, a Computer Science student at **National University of Singapore**. \
-Under this 4-year course, I am looking to specialise in Algorithms and Computer Security.
+Under this 4-year course, I am looking to specialise in Algorithms.
 
 ---
 
@@ -17,7 +17,7 @@ Under this 4-year course, I am looking to specialise in Algorithms and Computer 
 ---
 
 ## 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeze2000&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeze2000&layout=compact&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
