@@ -5,7 +5,7 @@ Under this 4-year course, I am looking to specialise in Algorithms.
 ---
 
 ## 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeze2000&layout=compact&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeze2000&layout=compact&hide=makefile,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
